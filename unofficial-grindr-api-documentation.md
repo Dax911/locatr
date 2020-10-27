@@ -1,6 +1,6 @@
 #Unofficial Grindr™ API v3 documentation
 
-This is a unofficial documentation of Grindr™'s API based on reverse-engineering, in no way is it undorsed by Grindr LLC.
+This is a unofficial documentation of Grindr™'s API based on reverse-engineering, in no way is it endorsed by Grindr LLC.
 
 Grindr™'s service is comprised of:
   1. A REST API endpoint, at https://grindr.mobi
